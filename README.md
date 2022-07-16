@@ -13,6 +13,7 @@ This formula allows one to find the angle of launch needed without the restricti
 
 
 ![Gameplay Screenshot](https://user-images.githubusercontent.com/67199656/179364216-aac041dc-dc9a-45e3-ade3-5938a281f1a5.png)
+<br /> *Gameplay Screenshot*
 
 
 
